@@ -1,0 +1,24 @@
+img {
+    width: 300px;
+    height: 400px;
+    
+}
+
+.itens{
+    align-content: center;
+}
+
+.vestuario{
+    text-align: left;
+}
+
+.vest{
+    margin-left: 15%;
+}
+
+.elect{
+    margin-left: 15%;
+}
+#itens{
+    text-align: center;
+}
